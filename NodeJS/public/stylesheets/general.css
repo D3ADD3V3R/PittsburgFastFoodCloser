@@ -1,0 +1,33 @@
+.firstSection {
+    padding-top: 50px;
+}
+
+.titlebackground {
+    /*background-color: rgba(53, 53, 53, 0.5);
+    border-radius: 25px;*/
+    top: 43%;
+    width: 50%;
+    margin: auto;
+}
+
+.resform {
+    /*background-color: rgba(53, 53, 53, 0.5);
+    border-radius: 25px;*/
+    top: 75%;
+    width: 50%;
+    margin: auto;
+}
+
+.custom-shadow {
+    box-shadow: 20px -15px 19px 1px #6f6f6f;
+}
+
+.custom-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+textarea {
+    resize: none;
+}
